@@ -6,3 +6,6 @@ NotYourFenix#5465 & Sxlitude#8885
 
 # Copy/Skid
 You Are Not Allowed To Copy/Skid This SRC. If You Still Do It We Can Take Actions!
+
+# Join
+[Term ; Pfps](https://discord.gg/ZFx7nQss8c)
