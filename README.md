@@ -8,4 +8,4 @@ NotYourFenix#5465 & Sxlitude#8885
 You Are Not Allowed To Copy/Skid This SRC. If You Still Do It We Can Take Actions!
 
 # Join
-[Term ; Pfps](https://discord.gg/ZFx7nQss8c)
+[Term ; Pfps](https://discord.gg/ZFx7nQss8c) | https://discord.gg/ZFx7nQss8c
