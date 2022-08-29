@@ -15,7 +15,7 @@ client.on('ready', () => {
   });
 
   console.log(`[!]; Client Logged in as ${client.user.tag}\n[!]; Total PFPs: ${pfps.length}\n`);
-  const channel = client.channels.cache.get('1013688029149401119');
+  const channel = client.channels.cache.get('ENTER CHANNEL ID');
 
   let x = 0;
   setInterval(() => {
